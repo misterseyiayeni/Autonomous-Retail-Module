@@ -15,6 +15,9 @@ Autonomous Retail Module (ARM) for Loss Prevention.
 
 - Function: To take immediate action based on the AI's decision, notifying the right people and logging the event for review.
 
+![autonomous-retail-module-arch](https://github.com/user-attachments/assets/aad63225-27b2-4672-bc52-d43028644c7d)
+
+
 ### Solution Architecture Stages
 
 1. IP Cameras → Amazon Kinesis Video Streams: IP cameras in the store capture live video. Kinesis Video Streams securely ingests these encrypted feeds into the AWS cloud.
