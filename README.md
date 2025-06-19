@@ -3,8 +3,6 @@ Autonomous Retail Module (ARM) for Loss Prevention.
 
 ## The Three Core Stages of the ARM System
 
-Think of the architecture in three logical layers, each with a distinct responsibility:
-
 ### Stage 1: Ingestion & Sensing (The Eyes)
 
 - Function: To see everything happening in the store and securely transport that visual data to the cloud.
