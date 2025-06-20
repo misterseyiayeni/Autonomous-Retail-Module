@@ -1,5 +1,5 @@
 # Autonomous-Retail-Module
-Autonomous Retail Module (ARM) for Loss Prevention.
+Autonomous Retail Module (ARM) for loss prevention at retail businesses.
 
 ## The Three Core Stages of the ARM System
 
